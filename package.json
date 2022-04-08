@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "rc-pinterest-grid": "^0.0.4",
+    "react-stack-grid": "^0.7.1"
+  }
+}
